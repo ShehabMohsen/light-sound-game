@@ -70,7 +70,7 @@ For starters, I would learn how to make the page look aesthetically pleasing. Wi
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/b7af16db4e8e4cc6a64d5dd3444c051a)
 
 
 ## License
