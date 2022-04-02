@@ -144,12 +144,7 @@ function guess(btn){
         alert("try again. You have " + (3 - mistakes) + " tries left") ;
       }
     else loseGame(); //GAME OVER
-                     
-        
-        
-        
   }
-
 }
 
 // Page Initialization
