@@ -51,12 +51,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
   [CSS Color Names List](https://www.w3.org/wiki/CSS/Properties/color/keywords)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-    The most notable challenge I've faced was learning how to create a randomized pattern. Firstly, I searched online for Math.random() and learned how to use 
-    it specifically for this project. I wasn't exactly sure how I would go about using a randomly generated number between 0 (inclusive) and 1 (exclusive)
-    to get a value capable of running the sound buttons in the game. Turns out the solution to that was to simply multiply the random number by n (where n is some integer number)
-    in order to get a range of numbers from 0 to n-1. The problem with this is that: (1) the labels of the frequencies and buttons range from 1-n and some functions in the project
-    are designed around the idea that the buttons are within that range. (2) as it stands, the numbers generated are decimals So rather than readjusting the project to fit the Math.random() function, I simply used the built in ceiling function
-    in order to round    
+    The most notable challenge I've faced was creating a reliable randomized pattern that can 
+    
 [YOUR ANSWER HERE]
 
 

@@ -28,7 +28,7 @@ function startGame(){
 
 function generatePattern(){
   for(let i=0;i<pattern_len;i++){ // for each clue that is revealed so far
-      pattern[i] = (Math.ceil(Math.random()*6)+i)%6
+      pattern[i] = Math.ceil(Math.random()*6)
     console.log(pattern[i])
   }
   return;
@@ -136,16 +136,18 @@ function guess(btn){
       guessCounter++;
     }    
   }
+  //Guess was incorrect
   else {
       mistakes++
-      if(mistakes == 3){
-        //Guess was incorrect
-        //GAME OVER: LOSE!
-        loseGame();
-        return
+      if(mistakes < 3){
+        //warning of mistake
+        alert("try again. You have " + (3 - mistakes) + " tries left") ;
       }
-      //warning of mistake
-     alert("try again. You have " + (3 - mistakes) + " tries left") ;
+    else loseGame(); //GAME OVER
+                     
+        
+        
+        
   }
 
 }
