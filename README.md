@@ -50,8 +50,8 @@ Stop and Start buttons:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here:
 
-  [Math.random()](https://www.w3schools.com/js/js_random.asp)  
-  [CSS Color Names List](https://www.w3.org/wiki/CSS/Properties/color/keywords)
+  [Math.random()](https://www.w3schools.com/js/js_random.asp) to generate a random sound pattern.
+  [CSS Color Names List](https://www.w3.org/wiki/CSS/Properties/color/keywords) to choose my own colors for the buttons.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
     The most notable challenge I've faced was learning how to create a randomized pattern. Firstly, I searched online for Math.random() and learned how to use 
