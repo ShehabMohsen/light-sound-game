@@ -40,9 +40,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
+Win game:
 ![Winning game](https://raw.githubusercontent.com/ShehabMohsen/light-sound-game/main/walkthrough_win_game.gif)
+Losing game:
 ![Losing game](https://raw.githubusercontent.com/ShehabMohsen/light-sound-game/main/walkthrough_lose_game.gif)
+Stop and Start buttons:
 ![Stop and Start buttons](https://raw.githubusercontent.com/ShehabMohsen/light-sound-game/main/walkthrough_start_stop.gif)
 
 ## Reflection Questions
