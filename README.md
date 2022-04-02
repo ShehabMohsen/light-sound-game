@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 Win game:
 ![Winning game](https://raw.githubusercontent.com/ShehabMohsen/light-sound-game/main/walkthrough_win_game.gif)
-Losing game:
+Lose game:
 ![Losing game](https://raw.githubusercontent.com/ShehabMohsen/light-sound-game/main/walkthrough_lose_game.gif)
 Stop and Start buttons:
 ![Stop and Start buttons](https://raw.githubusercontent.com/ShehabMohsen/light-sound-game/main/walkthrough_start_stop.gif)
