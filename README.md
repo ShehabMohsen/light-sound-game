@@ -4,7 +4,7 @@
 
 Submitted by: **Shehab Mohsen**
 
-Time spent: **10** hours spent in total
+Time spent: **20** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/valuable-kindly-captain-memory-game
 
