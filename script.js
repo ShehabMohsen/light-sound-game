@@ -28,7 +28,7 @@ function startGame(){
 
 function generatePattern(){
   for(let i=0;i<pattern_len;i++){ // for each clue that is revealed so far
-      pattern[i] = Math.ceil(Math.random()*6)
+      pattern[i] = Math.floor(Math.random()*6+1)
     console.log(pattern[i])
   }
   return;
